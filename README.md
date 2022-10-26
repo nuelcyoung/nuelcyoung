@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuelcyoung
-- 👀 I’m interested in PHP
-- 👀 I’m  also interested in C#, ASP.NET
-- 🌱 I’m currently learning FLUTTER 
+- 👀 I develop in PHP
+- 👀 I develop in C#, ASP.NET
+- 🌱 I’m currently developing in FLUTTER/DART 
 - 💞️ I’m looking to collaborate
 - 📫 You can reach me on cnuel.young@gmail.com ...
 
